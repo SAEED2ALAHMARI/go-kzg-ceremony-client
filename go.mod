@@ -6,7 +6,7 @@ require (
 	github.com/consensys/gnark-crypto v0.9.0
 	github.com/drand/drand v1.4.7
 	github.com/spf13/cobra v1.6.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.9.0
 	golang.org/x/sync v0.1.0
 )
 
