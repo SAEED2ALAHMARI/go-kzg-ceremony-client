@@ -7,7 +7,7 @@ require (
 	github.com/drand/drand v1.4.7
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.7.0
 )
 
 require (
